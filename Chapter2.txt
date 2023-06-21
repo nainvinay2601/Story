@@ -1,1 +1,4 @@
 It was pleasant Day yk
+to add everything present in directory we can do git add . instead of adding one by one just use git add .
+to rollback when we have messed up we can do this but before if we wanna see the difference between current chapter and the chapter 3 in our git repository.
+to revert back to the last version of we will just revert it back by command git checkout
